@@ -3177,14 +3177,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-  color: #F6E05E;
-  border-color: #F6E05E;
+  color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-outline-primary:hover {
   color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  background-color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
@@ -3194,8 +3194,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-primary,
 .btn-check:active + .btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary.active, .btn-outline-primary.dropdown-toggle.show {
   color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  background-color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-check:checked + .btn-outline-primary:focus,
@@ -3204,7 +3204,7 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary:disabled, .btn-outline-primary.disabled {
-  color: #F6E05E;
+  color: #d62fb2;
   background-color: transparent;
 }
 
@@ -3305,14 +3305,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-warning {
-  color: #F6BB42;
-  border-color: #F6BB42;
+  color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-outline-warning:hover {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-check:focus + .btn-outline-warning, .btn-outline-warning:focus {
@@ -3322,8 +3322,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-warning,
 .btn-check:active + .btn-outline-warning, .btn-outline-warning:active, .btn-outline-warning.active, .btn-outline-warning.dropdown-toggle.show {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #d62fb2;
+  border-color: #d62fb2;
 }
 
 .btn-check:checked + .btn-outline-warning:focus,
@@ -3755,7 +3755,7 @@ fieldset:disabled .btn {
 .dropdown-item.active, .dropdown-item:active {
   color: #212529;
   text-decoration: none;
-  background-color: #F6E05E;
+  background-color: #d62fb2;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -3800,7 +3800,7 @@ fieldset:disabled .btn {
 
 .dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
   color: #212529;
-  background-color: #F6E05E;
+  background-color: #d62fb2;
 }
 
 .dropdown-menu-dark .dropdown-item.disabled, .dropdown-menu-dark .dropdown-item:disabled {
@@ -4005,7 +4005,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #F6E05E;
+  background-color: #d62fb2;
 }
 
 .nav-fill > .nav-link,
